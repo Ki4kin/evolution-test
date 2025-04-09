@@ -1,0 +1,14 @@
+.app-header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  background: #afafaf !important;
+  height: 64px;
+}
+
+.create-document-btn {
+  height: 36px;
+  width: 90px;
+  background: #456eff;
+  font-size: 12px;
+}

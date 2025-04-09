@@ -1,0 +1,16 @@
+.ant-drawer-close {
+  margin: 0 !important;
+  position: absolute;
+  top: 14px;
+  right: 14px;
+}
+
+.ant-drawer-header {
+  padding: 15px 16px !important;
+}
+
+.drawer-header-text {
+    font-size: 14px;
+    font-weight: 400;
+    color: #717680
+}

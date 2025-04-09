@@ -1,0 +1,13 @@
+.main-page {
+  padding: 64px 40px;
+}
+
+.document-list {
+  margin-top: 24px;
+}
+
+.document-list-empty-txt {
+  color: #b3b3b3;
+  font-size: 18px;
+  font-weight: 500;
+}
